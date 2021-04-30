@@ -1,0 +1,1 @@
+# Rating-widget-vanilla-js
